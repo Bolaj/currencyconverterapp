@@ -1,12 +1,3 @@
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.csproj.AssemblyReference.cache
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/rpswa.dswa.cache.json
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.GeneratedMSBuildEditorConfig.editorconfig
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.AssemblyInfoInputs.cache
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.AssemblyInfo.cs
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.csproj.CoreCompileInputs.cache
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.MvcApplicationPartsAssemblyInfo.cs
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.MvcApplicationPartsAssemblyInfo.cache
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.sourcelink.json
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/appsettings.Development.json
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/appsettings.json
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/currencyconverterapp.staticwebassets.endpoints.json
@@ -16,6 +7,9 @@
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/currencyconverterapp.dll
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/currencyconverterapp.pdb
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/BouncyCastle.Cryptography.dll
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/FluentValidation.dll
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/FluentValidation.AspNetCore.dll
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/FluentValidation.DependencyInjectionExtensions.dll
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/Google.Protobuf.dll
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/Humanizer.dll
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/K4os.Compression.LZ4.dll
@@ -133,6 +127,15 @@
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/runtimes/win-x64/native/krb5_64.dll
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/runtimes/win-x64/native/krbcc64.dll
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/runtimes/win/lib/net8.0/System.Windows.Extensions.dll
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.csproj.AssemblyReference.cache
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.AssemblyInfoInputs.cache
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.AssemblyInfo.cs
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.csproj.CoreCompileInputs.cache
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.MvcApplicationPartsAssemblyInfo.cs
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.MvcApplicationPartsAssemblyInfo.cache
+/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.sourcelink.json
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/rjimswa.dswa.cache.json
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
@@ -148,6 +151,3 @@
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.pdb
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/currencyconverterapp.genruntimeconfig.cache
 /Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/obj/Debug/net10.0/ref/currencyconverterapp.dll
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/FluentValidation.dll
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/FluentValidation.AspNetCore.dll
-/Users/timi/Desktop/projects/dotnet/currencyconverterapp/currencyconverterapp/bin/Debug/net10.0/FluentValidation.DependencyInjectionExtensions.dll

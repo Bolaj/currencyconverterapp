@@ -14,6 +14,7 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 
+
 builder.Services.AddDbContext<CurrencyRateDbContext>(options =>
     options.UseMySQL(
         builder.Configuration.GetConnectionString("CurrencyConnectionString")
@@ -22,6 +23,7 @@ builder.Services.AddDbContext<CurrencyRateDbContext>(options =>
 builder.Services.AddScoped<ICurrencyRateRepository, CurrencyRateRepository>();
 builder.Services.AddScoped<ICurrency, CurrencyService>();
 builder.Services.AddHttpClient();
+builder.WebHost.UseUrls("http://0.0.0.0:8080");
 
 var app = builder.Build();
 
@@ -31,5 +33,27 @@ app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Currency Co
 
 
 app.MapGet("/", () => "Hello World!");
+
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<CurrencyRateDbContext>();
+
+    var retries = 5;
+    while (retries > 0)
+    {
+        try
+        {
+            db.Database.Migrate();
+            break;
+        }
+        catch
+        {
+            retries--;
+            Thread.Sleep(5000); // wait 5 seconds
+        }
+    }
+}
+
 app.MapControllers();
 app.Run();
